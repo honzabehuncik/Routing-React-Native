@@ -3,6 +3,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import React from 'react';
 import HomePage from '../pages/HomePage';
 import LoginPage from '../pages/LoginPage';
+import Ionicons from '@expo/vector-icons/Ionicons';
 
 
 const Tab = createBottomTabNavigator();
