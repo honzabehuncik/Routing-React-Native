@@ -1,5 +1,5 @@
 
-import MyTabs from './components/MainContainer';
+import MyTabs from './components/BottomMenu';
 
 export default function App() {
   return (
